@@ -1,3 +1,5 @@
+# !THE CODE Was developed by Eisbison!
+ I just Decompiled the dll so it could be updated to latest among us version
 # Night Vision Camera
 A BepInEx mod that switches the surveillance cameras to night vision when the lights are out in Among Us.
 
